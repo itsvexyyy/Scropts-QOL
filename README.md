@@ -1,4 +1,4 @@
-[![Releases](https://img.shields.io/github/downloads/Scroptss/Scropts-QOL/total.svg)](https://github.com/Scroptss/Scropts-QOL/) 
+[![Releases](https://img.shields.io/github/downloads/Scroptss/Scropts-QOL/total)](https://github.com/Scroptss/Scropts-QOL/) 
 
 
 # Scropts QOL
