@@ -14,6 +14,7 @@
 - Name Spoofer & Clan Tag Editor
 - Cbuf / Dvar Command Inputs 
 - Download + Edit Emblems From Media Tab
+- Export and Import Emblems via .emblem files
 - Edit MXT-Downloaded Emblems 
 - Custom Profile Snapshot, Thumbnail, Title, and Description
 - Full Create a Class Editor
@@ -24,7 +25,10 @@
 - Patches for Commonly Used Crashes and Kicks
  
 ## Download
-The latest version can be found on the [Releases Page](https://github.com/Scroptss/Scropts-QOL/releases). 
+The latest version can be found on the [Releases Page](https://github.com/Scroptss/Scropts-QOL/releases).
+
+## Emblems
+User submitted emblem files can be found in this [Google Drive](https://drive.google.com/drive/folders/1NAZmB1OiZyUpZH7MBbB4RCw_Kq5I7dWQ?usp=drive_link)
 
 ## Credits
 - [Serious](https://github.com/shiversoftdev): Custom Profile Snapshots
