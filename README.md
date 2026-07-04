@@ -28,6 +28,8 @@
 The latest version can be found on the [Releases Page](https://github.com/Scroptss/Scropts-QOL/releases).
 
 ## Emblems
+[Upload Emblems Here](https://scroptss.github.io/t7-emblem-upload-portal/)
+
 User submitted emblem files can be found in this [Google Drive](https://drive.google.com/drive/folders/1NAZmB1OiZyUpZH7MBbB4RCw_Kq5I7dWQ?usp=drive_link)
 
 ## Credits
